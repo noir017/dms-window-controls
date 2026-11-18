@@ -1,0 +1,35 @@
+{
+  "Close window": {
+    "Close window": "关闭窗口"
+  },
+  "Expand": {
+    "Expand": "扩大"
+  },
+  "Expand to %1": {
+    "Expand to %1": "扩大到 %1"
+  },
+  "Full width": {
+    "Full width": "全宽"
+  },
+  "Fullscreen": {
+    "Fullscreen": "全屏"
+  },
+  "Maximized": {
+    "Maximized": "最大化"
+  },
+  "Normal": {
+    "Normal": "普通"
+  },
+  "Shrink": {
+    "Shrink": "缩小"
+  },
+  "Shrink to %1": {
+    "Shrink to %1": "缩小到 %1"
+  },
+  "Width steps": {
+    "Width steps": "宽度档位"
+  },
+  "Widths that shrink and expand step through, as a percentage or fraction of the screen width; 100% is full width. Add fullscreen to make it the last step. niri only.": {
+    "Widths that shrink and expand step through, as a percentage or fraction of the screen width; 100% is full width. Add fullscreen to make it the last step. niri only.": "缩小、扩大依次切换的宽度，写屏幕宽度的百分比或分数，100% 即全宽；加上 fullscreen 则最后一档为全屏。仅 niri。"
+  }
+}

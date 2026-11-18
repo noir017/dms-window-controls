@@ -1,0 +1,14 @@
+{
+    "id": "windowControls",
+    "name": "Window Controls",
+    "description": "Shrink, expand and close the focused window from the bar",
+    "version": "1.0.0",
+    "author": "dms-window-controls contributors",
+    "type": "widget",
+    "capabilities": ["dankbar-widget"],
+    "component": "./WindowControls.qml",
+    "settings": "./WindowControlsSettings.qml",
+    "icon": "open_in_full",
+    "requires_dms": ">=2.1.0",
+    "permissions": ["settings_read", "settings_write"]
+}
